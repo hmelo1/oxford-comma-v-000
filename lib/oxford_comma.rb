@@ -5,6 +5,8 @@ def oxford_comma(array)
     puts "Test2"
   elsif array.length == 2
     puts "Test3"
+    array.join(" and ")
+    puts "#{array}"
   end
   array[0]
 end

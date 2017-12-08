@@ -6,5 +6,5 @@ def oxford_comma(array)
   elsif array.length == 2
     puts "Test3"
   end
-  array
+  array[0]
 end

@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if array.length > 3 
+  if array.length > 3
     puts "Test"
     print "Test"
   elsif array.length == 3
@@ -8,5 +8,5 @@ def oxford_comma(array)
   elsif array.length == 2
     puts "Test3"
     print "Test3"
-  end    
+  end
 end
